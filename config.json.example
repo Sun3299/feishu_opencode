@@ -1,0 +1,18 @@
+{
+    "feishu": {
+        "app_id": "cli_xxxxxxxxxxxx",
+        "app_secret": "xxxxxxxxxxxxxxxxxxxxxxxx",
+        "default_chat_id": "oc_xxxxxxxxxxxxxxxxxxxxxxxx"
+    },
+    "opencode": {
+        "path": "opencode",
+        "host": "127.0.0.1",
+        "port": 0,
+        "model": null,
+        "directory": null,
+        "timeout": 30
+    },
+    "logs": {
+        "dir": "logs"
+    }
+}
